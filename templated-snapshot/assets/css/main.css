@@ -18,6 +18,12 @@
 		vertical-align: baseline;
 	}
 
+	h3 {
+		color: #019be3;
+		font-weight: bold;
+		 
+	}
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
@@ -1611,4 +1617,10 @@
 				padding: 3em 0 1em 0;
 			}
 
+		}
+
+/* Extra */
+
+		#follow {
+			color: #19B5FE;
 		}
